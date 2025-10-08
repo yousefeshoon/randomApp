@@ -1,0 +1,5 @@
+{
+  "name": "randomApp",
+  "description": "یک اپلیکیشن برای ایجاد اعداد تصادفی به روش‌های مختلف.",
+  "requestFramePermissions": []
+}
